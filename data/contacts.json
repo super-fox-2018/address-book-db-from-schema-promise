@@ -1,0 +1,104 @@
+[
+  {
+    "username": "steverogers",
+    "company": "shield",
+    "email": "cap_america@shield.com",
+    "phone_number": "+6284513400121" 
+  },
+  {
+    "username": "kennyrogers",
+    "company": "chicken",
+    "email": "roast_chicken@mail.com",
+    "phone_number": "+6288961479901" 
+  },
+  {
+    "username": "tonystark",
+    "company": "stark",
+    "email": "rich_dude@stark.com",
+    "phone_number": "+628888888881" 
+  },
+  {
+    "username": "brucebanner",
+    "company": "shield",
+    "email": "hulk_smash@shield.com",
+    "phone_number": "+6289651579222" 
+  },
+  {
+    "username": "thorodinson",
+    "company": "asgard",
+    "email": "thunder_god@asgard.com",
+    "phone_number": "+6284564170020" 
+  },
+  {
+    "username": "jamesrhodey",
+    "company": "military",
+    "email": "sub_ironman@us.com",
+    "phone_number": "+6281234823212" 
+  },
+  {
+    "username": "brucewayne",
+    "company": "wayne enterprises",
+    "email": "bruce@wayne.com",
+    "phone_number": "+6288888888888" 
+  },
+  {
+    "username": "clarkkent",
+    "company": "marvel",
+    "email": "cap_america@shield.com",
+    "phone_number": "+6280013459999" 
+  },
+  {
+    "username": "dianaprince",
+    "company": "amazon",
+    "email": "wonder@amazon.com",
+    "phone_number": "+6284345011789" 
+  },
+  {
+    "username": "scottsummers",
+    "company": "x-men",
+    "email": "laser_guy@xavier.com",
+    "phone_number": "+6284563889121" 
+  },
+  {
+    "username": "jeangrey",
+    "company": "x-men",
+    "email": "strongest_xmen@xavier.com",
+    "phone_number": "+6281237777122" 
+  },
+  {
+    "username": "reedrichards",
+    "company": "fantastic4",
+    "email": "mr_mlaar@f4.com",
+    "phone_number": "+6283457894122" 
+  },
+  {
+    "username": "suestrom",
+    "company": "fantastic4",
+    "email": "invisible@f4.com",
+    "phone_number": "+6283457894123" 
+  },
+  {
+    "username": "lukecage",
+    "company": "defenders",
+    "email": "hard_body@defenders.com",
+    "phone_number": "+6286663000012" 
+  },
+  {
+    "username": "barryallen",
+    "company": "slackers",
+    "email": "fastest@gmail.com",
+    "phone_number": "+6281111000001" 
+  },
+  {
+    "username": "peterparker",
+    "company": "daily buggle",
+    "email": "mr_photographer@buggle.com",
+    "phone_number": "+62853156888399" 
+  },
+  {
+    "username": "oliverqueen",
+    "company": "queen industries",
+    "email": "green_arrow@queen.com",
+    "phone_number": "+6285689014377" 
+  }
+]
