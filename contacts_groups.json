@@ -1,0 +1,37 @@
+[
+	{
+		"id":1,
+		"contact_id": 1,
+		"group_id":1
+	},
+	{
+		"id":2,
+		"contact_id": 1,
+		"group_id":3
+	},
+	{
+		"id":3,
+		"contact_id": 2,
+		"group_id":1
+	},
+	{
+		"id":4,
+		"contact_id": 3,
+		"group_id":2
+	},
+	{
+		"id":5,
+		"contact_id": 3,
+		"group_id":2
+	},
+	{
+		"id":6,
+		"contact_id": 4,
+		"group_id":4
+	},
+	{
+		"id":7,
+		"contact_id": 4,
+		"group_id":3
+	}
+]

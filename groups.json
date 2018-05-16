@@ -1,0 +1,18 @@
+[
+	{
+		"id":1,
+		"name": "konoha_village_group"
+	},
+	{
+		"id":2,
+		"name": "female_gossip_group"
+	},
+	{
+		"id":3,
+		"name": "village_leader_group"
+	},
+	{
+		"id":4,
+		"name": "suna_village_group"
+	}
+]
