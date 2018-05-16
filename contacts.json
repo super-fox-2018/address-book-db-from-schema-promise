@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Bambang",
+        "company": "hacktiv8",
+        "phone": "021-123456",
+        "email": "bambang@gmail.com",
+        "address": "jl iskandar syah no.10"
+    },
+    {
+        "name": "hasan",
+        "company": "hacktiv8",
+        "phone": "022-1234567",
+        "email": "hasan@gmail.com",
+        "address": "jl iskandar syah no.12"
+    },    {
+        "name": "udin peyot",
+        "company": "delta spa",
+        "phone": "023-12345678",
+        "email": "udin@gmail.com",
+        "address": "jl iskandar syah no.11"
+    },    {
+        "name": "Miya",
+        "company": "PT Aman Raya",
+        "phone": "081212345678",
+        "email": "miyag@gmail.com",
+        "address": "jl iskandar syah no.13"
+    },    {
+        "name": "Zamronk",
+        "company": "PT Maju Mundur",
+        "phone": "021-45435312",
+        "email": "zamronk@gmail.com",
+        "address": "jl iskandar syah no.14"
+    },    {
+        "name": "Mauwo",
+        "company": "hacktiv8",
+        "phone": "02212345678",
+        "email": "mauwo@gmail.com",
+        "address": "jl buntu gang sempit no.1"
+    }
+]
