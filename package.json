@@ -1,20 +1,22 @@
 {
-  "name": "address-book-db-from-schema",
-  "version": "0.0.1",
-  "description": "Address Book",
-  "main": "addressbook.js",
+  "name": "address-book-db-from-schema-promise",
+  "version": "1.0.0",
+  "description": "address book using promise",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rubi Henjaya",
-  "license": "ISC",
-  "dependencies": {
-    "bluebird": "^3.0.5",
-    "q": "^1.4.1",
-    "sqlite3": "*"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-fox-2018/address-book-db-from-schema-promise.git"
   },
-  "devDependencies": {
-    "babel-cli": "6.14.0",
-    "babel-preset-es2015": "6.14.0"
+  "author": "ridozaen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/super-fox-2018/address-book-db-from-schema-promise/issues"
+  },
+  "homepage": "https://github.com/super-fox-2018/address-book-db-from-schema-promise#readme",
+  "dependencies": {
+    "sqlite3": "^4.0.0"
   }
 }
