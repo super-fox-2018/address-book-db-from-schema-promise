@@ -42,6 +42,9 @@ switch (param) {
             Controller.deleteGroup(arrParam)
         }
         break;
+    case 'showGroup':
+        Controller.showGroup(arrParam)
+        break;
     default:
         Controller.showHelp()
 }

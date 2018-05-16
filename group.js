@@ -22,8 +22,8 @@ class Group {
             })
         })
     }
-    static delete(id){
-        return new Promise((resolve, reject) =>{
+    static delete(id) {
+        return new Promise((resolve, reject) => {
             let query = `DELETE FROM [group] where id =`;
             query += `${id}`;
             db.run(query, function (err) {
@@ -31,6 +31,18 @@ class Group {
                     reject(err)
                 } else {
                     resolve(this.changes)
+                }
+            })
+        })
+    }
+    static retrieve() {
+        return new Promise((resolve, reject) => {
+            let query = `SELECT * FROM [group]`
+            db.all(query, [], (err, groupList) => {
+                if (err) {
+                    reject(err)
+                } else {
+                    resolve(groupList)
                 }
             })
         })

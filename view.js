@@ -8,6 +8,7 @@ class View{
         console.log("adding contact to group : assignContact <contact id> <group id>")
         console.log("adding group            : addGroup <group name> <description>")
         console.log("delete group            : deleteGroup <id>")
+        console.log("show list group         : showGroup")
     }
     static display(msg){
         console.log(msg)

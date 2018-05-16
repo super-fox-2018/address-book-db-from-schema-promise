@@ -114,6 +114,19 @@ class Controller {
                 View.display(msg)
             })
     }
+
+    static showGroup() {
+        Group.retrieve()
+        .then(function (groupList){
+            for (let i = 0; i < groupList.length; i++){
+                for (let key in groupList[i]){
+                    let msg = `${key} : ${groupList[i][key]}`
+                    View.display(msg)
+                }
+                View.display('-----------------------------')
+            }
+        })
+    }
 }
 
 module.exports = Controller;

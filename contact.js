@@ -42,13 +42,6 @@ class Contact {
         })
     }
 
-    static retrieveContact(callback) {
-        let query = `SELECT * FROM contacts;`
-        db.all(query, [], (err, contacts) => {
-            if (err) throw err;
-            callback(contacts)
-        })
-    }
     static readContact(id) {
         return new Promise((resolve, reject) => {
             let query = `SELECT * FROM contacts where id =`;
@@ -91,14 +84,6 @@ class Contact {
             })
         })
     }
-    // static addGroup(contactId, groupId){
-    //     let query = `INSERT INTO contact_group VALUES (`;
-    //     query += `${contactId}, ${groupId});`
-    //     db.run(query, function (err) {
-    //         if (err) throw err;
-    //         callback(name)
-    //     })
-    // }
 }
 
 module.exports = Contact;
