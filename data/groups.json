@@ -1,0 +1,22 @@
+[
+  {
+    "name": "marvel",
+    "description": "All marvel heroes"
+  },
+  {
+    "name": "dc",
+    "description": "All dc heroes"
+  },
+  {
+    "name": "super-hero",
+    "description": "All super heroes"
+  },
+  {
+    "name": "anti-hero",
+    "description": "All anti heroes"
+  },
+  {
+    "name": "ultrarich",
+    "description": "All ultra rich heroes"
+  }
+]
