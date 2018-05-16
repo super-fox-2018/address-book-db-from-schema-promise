@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "first_name": "Setia",
+        "last_name": "Anggraeni",
+        "email": "tia@gmail.com",
+        "phone": "081234562134",
+        "group_name": "Super Fox"
+    },
+    {
+        "id": 2,
+        "first_name": "Rini",
+        "last_name": "Andini",
+        "email": "rini@gmail.com",
+        "phone": "089856474532",
+        "group_name": "Banana"
+    },
+    {
+        "id": 3,
+        "first_name": "Daniel",
+        "last_name": "Nino",
+        "email": "daniel@gmail.com",
+        "phone": "081356743245",
+        "group_name": "Super Fox"
+    },
+    {
+        "id": 4,
+        "first_name": "Mimi",
+        "last_name": "Fox",
+        "email": "mimi@gmail.com",
+        "phone": "089634526754",
+        "group_name": "Gengs"
+    },
+    {
+        "id": 5,
+        "first_name": "Shandy",
+        "last_name": "Wijaya",
+        "email": "shandy@gmail.com",
+        "phone": "081356226755",
+        "group_name": "Halaa"
+    }
+]
