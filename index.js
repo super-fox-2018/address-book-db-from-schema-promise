@@ -14,10 +14,11 @@ if (commands[0]==='addGroup') {
 if (commands[0]==='updateContact') {
 	let id = commands[1]
 	let data = commands.slice(2)
+	console.log(id,data)
 	controller.updateContact(id,data)
 }
 if (commands[0]==='deleteContact') {
-	controller.deleteContact(commands[1])
+	controller.deleteContact(commands[1],commands[2])
 }
 if(commands[0]==='showContact'){
 	if (commands[1]==='all') {

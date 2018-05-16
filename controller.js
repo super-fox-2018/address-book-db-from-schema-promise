@@ -15,13 +15,22 @@ class Controller{
 			view.viewAddFailed(err)
 		})
 	}
-	static updateContact(){
-		model.updateContact(dataUser)
+	static updateContact(id,dataUser){
+		model.updateContact(id,dataUser)
 		.then(data=>{
 			view.updateContact(data)
 		})
 		.catch(err=>{
 			view.viewUpdateFailed(err)
+		})
+	}
+	static deleteContact(id,data){
+		model.deleteContact(id)
+		.then(data=>{
+			view.deleteContact(data)
+		})
+		.catch(err=>{
+			view.viewDeleteFailed(err)
 		})
 	}
 	static addGroup(dataGroup){
@@ -30,7 +39,7 @@ class Controller{
 			view.addGroup(data)
 		})
 		.catch(err=>{
-			view.viewFailed(err)
+			view.viewAddFailed(err)
 		})
 	}
 }
