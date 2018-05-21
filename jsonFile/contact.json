@@ -1,0 +1,34 @@
+
+[
+  {
+    "name":"Dwi",
+    "company":"ABC",
+    "phone":"0812332476",
+    "email":"abc@yao.com"
+  },{
+    "name":"Romi",
+    "company":"AKLA",
+    "phone":"0812342476",
+    "email":"abc@yao.com"
+  },{
+    "name":"Jono",
+    "company":"KSC",
+    "phone":"0812344276",
+    "email":"abc@yao.com"
+  },{
+    "name":"Khai",
+    "company":"AOBC",
+    "phone":"0816423476",
+    "email":"abc@yao.com"
+  },{
+    "name":"Yuda",
+    "company":"ABC",
+    "phone":"0812390476",
+    "email":"abc@yao.com"
+  },{
+    "name":"Fauzan",
+    "company":"AJBC",
+    "phone":"0812389476",
+    "email":"abc@yao.com"
+  }
+]
